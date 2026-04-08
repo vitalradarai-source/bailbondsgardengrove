@@ -20,7 +20,7 @@
 
 | Date | Day | Slug | Keyword | Category | Status |
 |---|---|---|---|---|---|
-| 2026-04-08 | Wed | what-happens-after-arrest-garden-grove | what happens after an arrest in Garden Grove | Bail Process | ⬜ |
+| 2026-04-08 | Wed | what-happens-after-arrest-garden-grove | what happens after an arrest in Garden Grove | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-garden-grove | how do bail bonds work in Garden Grove | Bail Bonds 101 | ⬜ |
 | 2026-04-10 | Fri | how-much-is-bail-garden-grove | how much is bail in Orange County | Bail Amounts | ⬜ |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-garden-grove | how to get someone out of jail in Garden Grove | Release Process | ⬜ |
