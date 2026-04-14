@@ -22,11 +22,11 @@
 |---|---|---|---|---|---|
 | 2026-04-08 | Wed | what-happens-after-arrest-garden-grove | what happens after an arrest in Garden Grove | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-garden-grove | how do bail bonds work in Garden Grove | Bail Bonds 101 | ✅ published |
-| 2026-04-10 | Fri | how-much-is-bail-garden-grove | how much is bail in Orange County | Bail Amounts | ⬜ |
+| 2026-04-10 | Fri | how-much-is-bail-garden-grove | how much is bail in Orange County | Bail Amounts | ✅ published |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-garden-grove | how to get someone out of jail in Garden Grove | Release Process | ⬜ |
 | 2026-04-12 | Sun | domestic-violence-bail-garden-grove | domestic violence bail bonds Garden Grove | DV Bail | ⬜ |
 | 2026-04-13 | Mon | dui-bail-bonds-garden-grove | DUI bail bonds Garden Grove | DUI | ⬜ |
-| 2026-04-14 | Tue | felony-bail-bonds-garden-grove | felony bail bonds Garden Grove | Felony | ⬜ |
+| 2026-04-14 | Tue | 24-hour-bail-bonds-garden-grove | 24 hour bail bonds Garden Grove | Keyword Bank HIGH — urgency query | ✅ published Apr 14 (swapped from felony-bail-bonds) |
 | 2026-04-15 | Wed | drug-possession-bail-garden-grove | drug possession bail Garden Grove | Drug Charges | ⬜ |
 | 2026-04-16 | Thu | bail-someone-out-at-night-garden-grove | can you bail someone out at night in Garden Grove | 24/7 Bail | ⬜ |
 | 2026-04-17 | Fri | how-long-bail-takes-garden-grove | how long does it take to bail someone out of Garden Grove PD Jail | Timeline | ⬜ |
