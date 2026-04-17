@@ -29,7 +29,7 @@
 | 2026-04-14 | Tue | 24-hour-bail-bonds-garden-grove | 24 hour bail bonds Garden Grove | Keyword Bank HIGH — urgency query | ✅ published Apr 14 (swapped from felony-bail-bonds) |
 | 2026-04-15 | Wed | drug-possession-bail-garden-grove | drug possession bail Garden Grove | Drug Charges | ⬜ |
 | 2026-04-16 | Thu | bail-someone-out-at-night-garden-grove | can you bail someone out at night in Garden Grove | 24/7 Bail | ⬜ |
-| 2026-04-17 | Fri | how-long-bail-takes-garden-grove | how long does it take to bail someone out of Garden Grove PD Jail | Timeline | ⬜ |
+| 2026-04-17 | Fri | how-long-bail-takes-garden-grove | how long does it take to bail someone out of Garden Grove PD Jail | Timeline | ✅ published |
 | 2026-04-18 | Sat | bail-bond-cost-garden-grove | how much does a bail bondsman charge in Garden Grove | Costs | ⬜ |
 | 2026-04-19 | Sun | bail-bond-payment-plan-garden-grove | bail bond payment plan Garden Grove | Payment Plans | ⬜ |
 | 2026-04-20 | Mon | jail-booking-process-garden-grove | jail booking process at Garden Grove PD Jail | Jail Process | ⬜ |
