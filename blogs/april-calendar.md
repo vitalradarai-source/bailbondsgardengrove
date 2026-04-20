@@ -33,16 +33,16 @@
 | 2026-04-18 | Sat | bail-bond-cost-garden-grove | how much does a bail bondsman charge in Garden Grove | Costs | ⬜ |
 | 2026-04-19 | Sun | bail-bond-payment-plan-garden-grove | bail bond payment plan Garden Grove | Payment Plans | ⬜ |
 | 2026-04-20 | Mon | jail-booking-process-garden-grove | jail booking process at Garden Grove PD Jail | Jail Process | ⬜ |
-| 2026-04-21 | Tue | inmate-search-garden-grove | how to find someone in jail Garden Grove | Inmate Search | ⬜ |
-| 2026-04-22 | Wed | what-to-expect-arraignment-garden-grove | what to expect at arraignment Central Justice Center | Court Process | ⬜ |
-| 2026-04-23 | Thu | bail-hearing-garden-grove | bail hearing process in Orange County | Bail Hearing | ⬜ |
-| 2026-04-24 | Fri | warrant-bail-bonds-garden-grove | warrant bail bonds Garden Grove | Warrants | ⬜ |
-| 2026-04-25 | Sat | what-happens-miss-court-garden-grove | what happens if you miss court date Garden Grove | FTA | ⬜ |
-| 2026-04-26 | Sun | assault-bail-bonds-garden-grove | assault and battery bail bonds Garden Grove | Assault | ⬜ |
-| 2026-04-27 | Mon | theft-bail-bonds-garden-grove | theft and burglary bail bonds Garden Grove | Theft | ⬜ |
-| 2026-04-28 | Tue | choosing-bail-bondsman-garden-grove | how to choose a bail bondsman in Garden Grove | How to Choose | ⬜ |
-| 2026-04-29 | Wed | bail-bond-cosigner-garden-grove | what does a bail bond cosigner do Garden Grove | Cosigner | ⬜ |
-| 2026-04-30 | Thu | bail-bond-conditions-garden-grove | bail conditions and restrictions Orange County | Conditions | ⬜ |
+| 2026-04-21 | Tue | choosing-bail-bondsman-garden-grove | how to choose a bail bondsman in Garden Grove | How to Choose | ⬜ |
+| 2026-04-22 | Wed | bail-bond-cosigner-garden-grove | what does a bail bond cosigner do Garden Grove | Cosigner | ⬜ |
+| 2026-04-23 | Thu | bail-bond-conditions-garden-grove | bail conditions and restrictions in Orange | Conditions | ⬜ |
+| 2026-04-24 | Fri | first-offense-bail-garden-grove | first offense bail bonds Garden Grove | First Offense | ⬜ |
+| 2026-04-25 | Sat | felony-vs-misdemeanor-bail-garden-grove | felony vs misdemeanor bail Garden Grove | Charge Types | ⬜ |
+| 2026-04-26 | Sun | weapon-charges-bail-garden-grove | weapon charges bail bonds Garden Grove | Weapon Charges | ⬜ |
+| 2026-04-27 | Mon | immigration-hold-bail-garden-grove | ICE hold bail questions Garden Grove | Immigration | ⬜ |
+| 2026-04-28 | Tue | probation-violation-bail-garden-grove | probation violation bail Garden Grove | Probation | ⬜ |
+| 2026-04-29 | Wed | bench-warrant-garden-grove | bench warrant bail bonds Garden Grove | Bench Warrant | ⬜ |
+| 2026-04-30 | Thu | restraining-order-bail-garden-grove | restraining order and bail Garden Grove | Restraining Order | ⬜ |
 
 ## E-E-A-T Requirements (Every Post)
 - Licensed bondsman perspective (Sean Plotkin, License #1K06080)
