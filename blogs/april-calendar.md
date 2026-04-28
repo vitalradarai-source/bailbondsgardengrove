@@ -39,7 +39,7 @@
 | 2026-04-24 | Fri | first-offense-bail-garden-grove | first offense bail bonds Garden Grove | First Offense | ⬜ |
 | 2026-04-25 | Sat | felony-vs-misdemeanor-bail-garden-grove | felony vs misdemeanor bail Garden Grove | Charge Types | ⬜ |
 | 2026-04-26 | Sun | weapon-charges-bail-garden-grove | weapon charges bail bonds Garden Grove | Weapon Charges | ⬜ |
-| 2026-04-27 | Mon | immigration-hold-bail-garden-grove | ICE hold bail questions Garden Grove | Immigration | ⬜ |
+| 2026-04-27 | Mon | immigration-hold-bail-garden-grove | ICE hold bail questions Garden Grove | Immigration | ✅ published |
 | 2026-04-28 | Tue | probation-violation-bail-garden-grove | probation violation bail Garden Grove | Probation | ⬜ |
 | 2026-04-29 | Wed | bench-warrant-garden-grove | bench warrant bail bonds Garden Grove | Bench Warrant | ⬜ |
 | 2026-04-30 | Thu | restraining-order-bail-garden-grove | restraining order and bail Garden Grove | Restraining Order | ⬜ |
